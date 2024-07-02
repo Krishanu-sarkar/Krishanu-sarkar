@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krishanu-sarkar
+- 👋 Hi, I’m @Krishanu Sarkar
 - 👀 I’m interested in web development, coding, ethical hacking.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on IT company where I capitalise my skills and contribute in growth of the company.
